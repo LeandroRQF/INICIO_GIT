@@ -29,3 +29,6 @@ git add "o que vai add"
 git commit -m "Frase do commit"
 
 git push
+
+git diff head~1
+
